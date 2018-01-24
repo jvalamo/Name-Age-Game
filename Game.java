@@ -13,6 +13,6 @@ public class Game{
       int age = sc.nextInt();
       sc.nextLine();
       System.out.println("You were born in " + (2017 - age));
-      */This only kind of works I need a way to find the current date.
+      //This only kind of works I need a way to find the current date.
    }
 }
